@@ -1,6 +1,7 @@
 # Minecraft Server Log Analyzer (C#)
 
 A fast, memory-efficient CLI tool built in C# (.NET 10) for parsing and analyzing `latest.log` files from **Purpur**, **Paper**, **Spigot**, and **Vanilla** Minecraft servers.
+<img width="2598" height="1386" alt="image" src="https://github.com/user-attachments/assets/b9a77508-b8cb-4db2-b85e-e559e38b152e" />
 
 ## Features
 - **Streaming File Processing:** Uses `StreamReader` to parse multi-megabyte log files line-by-line with minimal RAM overhead.
